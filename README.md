@@ -5,6 +5,8 @@
 
 - [Homegoods Store](#homegoods-store)
 
+(click titles below to take you to project)
+
 ### [Homegoods Store](https://github.com/jeanMachadoNotes/Python-Projects/tree/main/Homegoods%20Store)
 
 This app allows you to select and order several homegood items, providing a receipt with tax at the end.
